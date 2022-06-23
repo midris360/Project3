@@ -18,3 +18,8 @@
 ![Express welcome screen](./images/6.%20welcome.png)
 7. *Make routes for http request for To-do app, then create api .js file, adding code to api file using vim*
 ![vim api](./images/7.%20vim%20api.png)
+8. *installed mongoose which make working with mongoDB easier, then created a models folder and then a Todo file in which I added code to Todo.js file*
+![Mongoose](./images/8.%20install%20mongoose.png)
+![Todo code](./images/9.%20vim%20todo.png)
+9. *Edited new code to api.js file for use of new model*
+10. *Created a MongoDB account for DBaas, created a .env file inside Todo folder, added connection string access inside .env file*
